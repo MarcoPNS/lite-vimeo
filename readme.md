@@ -1,7 +1,15 @@
-> 🙋 Using YouTube? Check out the original [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed).  
-> 🦾 Need more power? Check out [playerx](https://github.com/playerxo/playerx).
+# What does this fork do:
+- Add dnt parameter to the iframe
+- Add hash parameter to the iframe
+- Add option to include more parameters to the iframe (https://github.com/luwes/lite-vimeo-embed/pull/24)
 
-# Lite Vimeo Embed
+## How to use it instead of the OG Version?
+Remove the OG version from your project and install the package like this and you're good to go.
+```bash
+npm install @marcopns/lite-vimeo
+```
+
+# OG Readme: Lite Vimeo Embed
 
 > #### Renders faster than a sneeze.
 

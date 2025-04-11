@@ -1,6 +1,6 @@
 {
-  "name": "lite-vimeo-embed",
-  "version": "0.3.0",
+  "name": "@marcopns/lite-vimeo",
+  "version": "0.4.0",
   "description": "A faster vimeo embed.",
   "type": "module",
   "main": "lite-vimeo-embed.js",
@@ -9,13 +9,13 @@
     "lint": "npx eslint *.js -c ./node_modules/wet-run/.eslintrc.json",
     "dev": "wet serve"
   },
-  "author": "Wesley Luyten <me@wesleyluyten.com> (https://wesleyluyten.com)",
+  "author": "Wesley Luyten <me@wesleyluyten.com> (https://wesleyluyten.com), Marco Sadowski <marco@camefrom.space> (https://camefrom.space)",
   "license": "MIT",
-  "repository": "luwes/lite-vimeo-embed",
+  "repository": "marcopns/lite-vimeo",
   "bugs": {
-    "url": "https://github.com/luwes/lite-vimeo-embed/issues"
+    "url": "https://github.com/marcopns/lite-vimeo/issues"
   },
-  "homepage": "https://github.com/luwes/lite-vimeo-embed#readme",
+  "homepage": "https://github.com/marcopns/lite-vimeo#readme",
   "keywords": [
     "vimeo",
     "custom element",
