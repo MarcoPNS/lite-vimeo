@@ -9,6 +9,12 @@ Remove the OG version from your project and install the package like this and yo
 npm install @marcopns/lite-vimeo
 ```
 
+## How to use the hash parameter
+In the free version of vimeo, hidden videos require a hash to be visible. You should have a URL Like this vimeo.com/<video-id>/<hash>. This results into following:
+```html
+<lite-vimeo videoid="785940542" hash="a1b2c3d4"></lite-vimeo>
+```
+
 # OG Readme: Lite Vimeo Embed
 
 > #### Renders faster than a sneeze.
